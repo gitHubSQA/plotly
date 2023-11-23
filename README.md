@@ -43,3 +43,6 @@ npm run cy:run
   > cy.visitPage
 
 # ✔️ Testing problems are green and asserting the right scenarios
+
+![Uploading plotly_test_run.PNG…]()
+
