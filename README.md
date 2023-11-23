@@ -44,5 +44,5 @@ npm run cy:run
 
 # ✔️ Testing problems are green and asserting the right scenarios
 
-![Uploading plotly_test_run.PNG…]()
 
+![plotly_test_run](https://github.com/gitHubSQA/plotly/assets/14079866/ba098ec0-bcf3-47f6-96cc-db40e3ad0f2e)
