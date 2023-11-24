@@ -45,4 +45,5 @@ npm run cy:run
 # ✔️ Testing problems are green and asserting the right scenarios
 
 
-![plotly_test_run](https://github.com/gitHubSQA/plotly/assets/14079866/ba098ec0-bcf3-47f6-96cc-db40e3ad0f2e)
+![plotly-test-run-results](https://github.com/gitHubSQA/plotly/assets/14079866/4c5d1c5c-2d75-497d-9ecd-5645e9752952)
+
